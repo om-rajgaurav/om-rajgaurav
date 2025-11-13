@@ -27,7 +27,7 @@ I'm a **React Native** developer with 4 years of experience building high-qualit
 - **Krystallize**: 💎 An application that revolutionizes content management, allowing you to save, organize, and share content more effectively.
 - **RECA**: 🏠 A Real Estate Caravan app providing a user-friendly platform for exploring and managing real estate properties.
 - **Go To Food (GTF)**: 🍔 Contributed to developing apps for popular food brands under the GTF umbrella, specifically Moe’s and Jamba, enhancing their customer engagement and ordering experience.
-- - **Indigo Flight Booking APP**: ✈️ Contributed fixing bugs and implemented voucher functionality on Addons screen in this indigo flight booking App.
+- **Indigo Flight Booking APP**: ✈️ Contributed to fixing bugs and implemented voucher functionality on the Addons screen in this Indigo flight booking App.
 
 ## 🌐 Connect with Me
 
