@@ -1,40 +1,101 @@
-# 👋 Hello, I'm Raj Gaurav!
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="680" />
+</p>
 
-I'm a **React Native** developer with 4 years of experience building high-quality, cross-platform mobile applications. I bring a blend of creativity and technical expertise to every project, ensuring seamless user experiences and efficient solutions.
+<h1 align="center">✨ Hey, I'm <b>Raj Gaurav</b> — React Native Developer</h1>
+<p align="center">Building smooth, scalable, beautiful mobile experiences 🚀</p>
 
-## 🛠️ Skills & Technologies
+---
 
-- **React Native**: 📱 Creating stunning cross-platform mobile apps.
-- **MongoDB**: 🗄️ Managing scalable and flexible NoSQL databases.
-- **Node.js**: 🌐 Building fast and scalable server-side applications.
-- **Next.js**: ⚛️ Developing modern, server-rendered React apps.
-- **TypeScript**: 🔤 Adding static types to JavaScript for safer code.
-- **Redux**: 🔄 Managing complex states in React applications.
-- **Redux Toolkit (RTK)**: 🛠️ Simplifying state management with powerful tools 📊 Efficiently fetching and caching data.
+## 🎨 About Me  
+I'm a **React Native Developer** with **4+ years of experience** crafting interactive, high-performance mobile apps for iOS and Android.  
+I combine creativity, clean architecture, and strong engineering patterns to ship apps that feel fast, look great, and scale reliably.
 
-## 🌟 Highlights
+💡 *"I turn ideas into polished mobile experiences."*
 
-- **4 years of experience**: 🚀 Delivering high-quality, user-centric mobile solutions.
-- **Creative UI/UX Design**: 🎨 Designing intuitive and engaging user interfaces.
-- **Robust Security**: 🔐 Ensuring data protection and application security.
-- **Cross-Platform Expertise**: 📱 Ensuring top-notch performance on both iOS and Android.
+---
 
-## 🛠️ Projects
+## ⚡ What I Do  
+- 📱 Cross-platform app development using **React Native**  
+- 🌐 Backend systems with **Node.js & Express**  
+- 🗄️ Database design with **MongoDB**  
+- ✨ Designing clean UI/UX that users love  
+- 🔄 Complex state handling with **Redux + RTK Query**  
+- 🔌 BLE Integrations & real-time data streaming  
+- 🛠️ Performance optimization & bug fixing  
 
-- **Wealth Concert**: 🎶 A collaborative app for managing rotational fund distribution to reduce traditional loan interest.
-- **Athes-AI**: 🏅 A sports content training platform for youth athletes, coaches, and parents to connect and elevate their sports skills in a secure environment.
-- **CRQL**: 🗣️ An app for sharing a single social media account with your closest friends. Create and consume content within a private group called a Circle.
-- **Krystallize**: 💎 An application that revolutionizes content management, allowing you to save, organize, and share content more effectively.
-- **RECA**: 🏠 A Real Estate Caravan app providing a user-friendly platform for exploring and managing real estate properties.
-- **Go To Food (GTF)**: 🍔 Contributed to developing apps for popular food brands under the GTF umbrella, specifically Moe’s and Jamba, enhancing their customer engagement and ordering experience.
-- **Indigo Flight Booking APP**: ✈️ Contributed to fixing bugs and implemented voucher functionality on the Addons screen in this Indigo flight booking App.
+---
 
-## 🌐 Connect with Me
+## 🚀 Featured Projects  
 
-- **LinkedIn**: https://www.linkedin.com/in/omrajgaurav
-- **Email**: om.rajgaurav@gmail.com
-- **Portfolio**: https://om-rajgaurav.github.io/
+### 🎶 **Wealth Concert**  
+A rotational fund distribution platform helping users reduce traditional loan interest.
 
-## 💬 Let's Collaborate!
+### 🏅 **Athes-AI**  
+Sports training & content platform for athletes, parents, and coaches — secure, structured, and youth-friendly.
 
-👯 Feel free to reach out if you have any questions or if you're interested in working together on exciting projects. I’m always open to new opportunities and collaborations!
+### 🗣️ **CRQL**  
+A private social experience — share and consume content within a secure “Circle.”
+
+### 💎 **Krystallize**  
+A content management tool built for speed, clarity, and smarter organization.
+
+### 🏠 **RECA**  
+Real-Estate Caravan app — enhanced property exploration made simple.
+
+### 🍔 **Go To Food (GTF)**  
+Contributed to Moe’s & Jamba apps under GTF, improving customer ordering flows.
+
+### ✈️ **Indigo Flight Booking App**  
+Implemented **voucher logic** on Add-ons screen and fixed production bugs.
+
+---
+
+## 🧠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,express,mongodb,redux,nextjs,firebase,html,css&theme=light" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="mailto:om.rajgaurav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/omrajgaurav/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api?username=om-rajgaurav&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=om-rajgaurav&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=om-rajgaurav&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Top Contributions  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=om-rajgaurav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=om-rajgaurav&icon=5&color=6" />
+</p>
+
+---
+
+## 🎉 Thanks for visiting!  
+<p align="center">✨ *Let’s build something amazing together.* ✨</p>
